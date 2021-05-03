@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 25 Apr 2021 15:00:00 +0300
+Source: github-packages
+Binary: github-packages
+Architecture: amd64
+Version: 1.0.0
+Distribution: focal
+Urgency: medium
+Maintainer: Pawel Soja <kernel32.pl@gmail.com>
+Changed-By: Pawel Soja <kernel32.pl@gmail.com>
+Description:
+ github-packages - Example
+Changes:
+ github-packages (1.0.0) focal; urgency=medium
+ .
+   * Minor release.
+Checksums-Sha1:
+ 1f41d4d9a45a33543fa6c7b50cf97a226a8ae0eb 13716 github-packages-dbgsym_1.0.0_amd64.ddeb
+ d3e641533e4fc2b355a765661f625f958c7bad15 5157 github-packages_1.0.0_amd64.buildinfo
+ d6214263d2c43b472ad2f71af79f9fde8e2f87c9 5272 github-packages_1.0.0_amd64.deb
+Checksums-Sha256:
+ 638ba7d38d837f825d37685b577ff384b8952fc9c7725e549e7fd2fbfc032780 13716 github-packages-dbgsym_1.0.0_amd64.ddeb
+ a12b0976f14b00cff8626acb536d14b110699b72d86813ad0ca5253278545c1c 5157 github-packages_1.0.0_amd64.buildinfo
+ 9420a92a4f0a461105bf01c053d3d32ec35ba6c7ab68618a91621d4f00bc1b76 5272 github-packages_1.0.0_amd64.deb
+Files:
+ 3af4ad70b6a73432b8989aee7b6117d5 13716 debug optional github-packages-dbgsym_1.0.0_amd64.ddeb
+ d803f7c9c27459393b2e654e1c02ac99 5157 misc optional github-packages_1.0.0_amd64.buildinfo
+ 91e5158ad76781ba7a210c3a8d0e60d1 5272 misc optional github-packages_1.0.0_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHKBAEBCgA0FiEEbQAee4sPWFaZ3O9liJbJ75p7fKAFAmCQUFMWHGtlcm5lbDMy
+LnBsQGdtYWlsLmNvbQAKCRCIlsnvmnt8oN9tDACwDFVkMRpNLrEfSQFhckluE5yh
+2vBcfW+r49PGWv1WF7crbICakHWj3smY23abUOszRnXr7FhTkcZLttCY1spHbILW
+4rV5Rnh82FbQ3ByBzvRwLLiA6ya7MeRojzf5utEFyxy7qM131PhQDVa03zsiHAA4
+N1OLjz6ITck58HuIep7fJSfd4wFyS/2sgWvpmy3/BbK0jdOtMO7vLPmn0OJESmvs
+AHmFHYZ0w8hfNZK9TTgdpnE1QXN+76ViPWx3fQWoO7skm4y6I0+tYdm+N9MKVWbp
+gomoKvOnjDMAPT0RSG3TAWyWT1HlAb+tnWHoedoSMZJpT2t/wslvTLa5uEYmxM6J
+5zK8vDNmXmy3kiTj0k0XpmwtTsV2cV22DpbwLnXOREQp7K8KneFGQw8oGGO00rOp
+VFUdZsQxGT6ZAPeHYe/SOpokIHcRRZseyuKea4jdWwCQi7LotiHXF8XOJVBQK65h
+wxzyiby00wwqS2zlpwb4V/tSrqXl7lDrOLeY334=
+=s77H
+-----END PGP SIGNATURE-----
